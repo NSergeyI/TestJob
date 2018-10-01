@@ -1,0 +1,11 @@
+
+C:\Users\Tom\Documents\TestJob\StockWatcher>python quoteServer.py 
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 64676)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 64677)
+----------------------------------------
+Завершить выполнение пакетного файла [Y(да)/N(нет)]? 
+
+C:\Users\Tom\Documents\TestJob\StockWatcher>
